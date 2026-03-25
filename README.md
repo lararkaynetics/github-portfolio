@@ -10,47 +10,47 @@ Each project is crafted to communicate clearly, connect emotionally, and deliver
 Print Ads
 Retail campaigns, grocery promotions, automotive showcases, real estate listings, job ads, posters, tarpaulins, streamers, billboards, brochures, and flyers, designed to capture attention and drive results.
 
-📰 Editorial Design
+📰 Editorial Design </p>
 Newsletters
 Clean, professional layouts for newspapers, magazines, and company newsletters, focused on readability, structure, and visual storytelling.
 
-💻 Digital Marketing
+💻 Digital Marketing </p>
 Online Ads
 Scroll-stopping digital ads for various platforms, from fashion to job campaigns—optimized for engagement and conversions.
 
-🧠 Brand Identity
+🧠 Brand Identity </p>
 Logo Creation
 Custom logos that define brand identity, crafted to be memorable, versatile, and timeless.
 
-🪧 Visual Communication
+🪧 Visual Communication </p>
 Signage
 Indoor and outdoor signage that informs, guides, and strengthens brand presence.
 
-🎉 Experience Design
+🎉 Experience Design </p>
 Events
 Visual concepts for exhibits, celebrations, and special occasions—creating immersive and memorable experiences.
 
-👕 Apparel Design
+👕 Apparel Design </p>
 Clothing & Textile
 Designs for hoodies, uniforms, shirts, and merchandise, built for identity and expression.
 
-🎭 Creative Costumes
+🎭 Creative Costumes </p>
 Cosplay
 Detailed costume designs for themed events—bringing imagination to life.
 
-🌸 Event Styling
+🌸 Event Styling </p>
 Décors
 Balloon installations and floral arrangements, adding personality and elegance to events.
 
-💎 Fashion Details
+💎 Fashion Details </p>
 Accessories
 Hair and fashion accessories that elevate style through thoughtful details.
 
-✍️ Creative Writing
+✍️ Creative Writing </p>
 Literary Works
 Articles, poetry, creative writing, and features—crafted to inform, inspire, and engage.
 
-🏠 Space Planning
+🏠 Space Planning </p>
 Interior Design Concepts
 Conceptual designs for residential and commercial spaces, balancing function and aesthetics.
 
@@ -58,7 +58,7 @@ Conceptual designs for residential and commercial spaces, balancing function and
 Fun Page
 A collection of sketches, comics, and experimental ideas—where creativity flows freely.
 
-🧩 Concept Development
+🧩 Concept Development </p>
 Prototyping
 Wireframes to high-fidelity mockups—visualizing ideas and improving user experience before development.
 
@@ -70,6 +70,3 @@ Wireframes to high-fidelity mockups—visualizing ideas and improving user exper
 
 📌 Note
 This repository showcases selected works and concepts. More projects and case studies are continuously being added.
-
-🤝 Let’s Connect
-If you're a recruiter, client, or collaborator, feel free to connect and explore opportunities to create meaningful design together.
