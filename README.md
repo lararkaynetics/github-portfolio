@@ -6,7 +6,7 @@ Each project is crafted to communicate clearly, connect emotionally, and deliver
 
 <p align="center"><em> 📂 Portfolio Categories:</em> </p>
 
-📢 Marketing Materials
+📢 Marketing Materials </p>
 Print Ads
 Retail campaigns, grocery promotions, automotive showcases, real estate listings, job ads, posters, tarpaulins, streamers, billboards, brochures, and flyers, designed to capture attention and drive results.
 
