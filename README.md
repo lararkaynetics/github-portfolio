@@ -1,8 +1,7 @@
 <p align="center"> <em>Designing with purpose, powered by AI, guided by human insight, keeping heart at the center.</em> </p>
 ✨ Overview
 
-Welcome to my creative space, a curated collection of work across branding, digital media, print, and experiential design.</p>                        
-Each project is crafted to communicate clearly, connect emotionally, and deliver real impact.
+Welcome to my creative space, a curated collection of work across branding, digital media, print, and experiential design.</p> Each project is crafted to communicate clearly, connect emotionally, and deliver real impact.
 
 <p align="center"><em> 📂 Portfolio Categories:</em> </p>
 
