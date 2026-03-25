@@ -2,7 +2,6 @@
 ✨ Overview
 
 Welcome to my creative space, a curated collection of work across branding, digital media, print, and experiential design.
-
 Each project is crafted to communicate clearly, connect emotionally, and deliver real impact.
 
 📂 Portfolio Categories:
