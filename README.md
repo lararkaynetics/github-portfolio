@@ -1,4 +1,4 @@
-<p align="center"> <em>Designing with purpose, powered by AI, guided by human insight, keeping heart at the center.</em> </p>
+<p align="center"> <em><b>Designing with purpose, powered by AI, guided by human insight, keeping heart at the center.</b>></em> </p>
 ✨ Overview
 
 Welcome to my creative space, a curated collection of work across branding, digital media, print, and experiential design.
@@ -22,7 +22,7 @@ Scroll-stopping digital ads for various platforms, from fashion to job campaigns
 Logo Creation
 Custom logos that define brand identity, crafted to be memorable, versatile, and timeless.
 
-🪧 Visual Communication </p>
+👁️ Visual Communication </p>
 Signage
 Indoor and outdoor signage that informs, guides, and strengthens brand presence.
 
